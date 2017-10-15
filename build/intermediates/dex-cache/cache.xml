@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/e924900e8f89124d5a6cb08ea1115fb8c0edec85/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_57c2bb530554a9b4078a389556958f6bd53d10ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/703ce4c5c24d3078edb788a20c6effbdbb5df8c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a72e248387d3465856be6ae1f28d7b38395b28e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/ca6b14cb95c29aa93dfb5bbf40bb8bede4b4ea6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a899ab0a16c27c2e6d7533ff5e0cdd7d491444c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/b2f593abc11dc2332ef729032472e8fe121e5f2a/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5d0ebc0c2e74889d1662d30420bf37a7ca1170a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f5a3d11dfdd53fd63c7fcb1985152d81ca55d10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/d44dbc3e5a8c80295b84a6201a691123f3a038a8/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_95bbe1f2c5f5c21762c3d62adebaa1884b1a5b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/ff16c435c8c400441deac9d141a91b10a5279b02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_388b469bf910d30f4023dcb713b3f2ce1944d872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/d44dbc3e5a8c80295b84a6201a691123f3a038a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81d395729711e2507204e9fe34e978ae9b07703b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_8e9d4f1e9bd59946c63f3ba3bd663a7c54bba2c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/c209fd1ea55a6416c85e56825ec89d511065431b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75b5701ee07e924f1aa7dc40ab2c17e5a29552d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/703ce4c5c24d3078edb788a20c6effbdbb5df8c4/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_baa4e940e1c1e635c780c07d047a1020508a8a01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/e924900e8f89124d5a6cb08ea1115fb8c0edec85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d16fa95a3ca08dfb8bfdea5f93693fd997a7a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a02966ef1d7b743dffb7905f56eaa18f5582e570">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd8c18757a74e186c440df7b66287a7500c36d19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_52fa0e5a35ce7f2b8b54b0d5c7ddcf325e769fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/ad5ea606d2409fa53a5c6e99dcff89ced51f126d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b747c3b87a249c9a036936be9e866197557f042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/b2f593abc11dc2332ef729032472e8fe121e5f2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7698d63e3a2794b0ba4d107634bee206b89c8415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/ad5ea606d2409fa53a5c6e99dcff89ced51f126d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5e18390b1878970dad7d80afda89874cc6605fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chenyi/.android/build-cache/f67799bb4f3fa9d7758a2ee5df8c8d42ca917607/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/chenyi/AndroidStudioProjects/JsonHomeWork/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6bee9cca2e2d1e536bcf6ced43538e97837c56f/classes.dex" />
+    </item>
+
+</items>
